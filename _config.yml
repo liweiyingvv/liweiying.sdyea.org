@@ -1,28 +1,14 @@
-url: http://www.seohzz.com
+url: http://www.liweiying.com
 
-title: Select Web
+title: 李炜英-blog
 
-keywords: 顺德SEO,顺德网站建设,顺德网站推广,顺德网络营销
+keywords: 李炜英
 
-description: Select Web是分享顺德SEO、网站建设、网站推广和网络营销的博客，为企业提供专业的SEO、网站建设、网站推广和网络营销顾问服务。
+description: 本人是顺德职业技术学院里的一名可爱的大学生,她生性善良勇敢,乐于助人。
 
 relative_permalinks: false
 
-contacts: 黄生
 
-tel: 13790019668
-
-assets:
-  dirname: assets
-  baseurl: /assets/
-  sources:
-    - _assets/js
-    - _assets/css
-  js_compressor: uglifier
-  css_compressor: sass
-  cache: true
-  cache_assets: true
-  gzip: []
 
 exclude:
   - README.md
