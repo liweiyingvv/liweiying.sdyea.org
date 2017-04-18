@@ -1,14 +1,12 @@
-url: http://www.liweiying.com
+url: http://www.sdyea.org
 
-title: 李炜英-blog
+title: Zack博客
 
-keywords: 李炜英
+keywords: Zack博客
 
-description: 本人是顺德职业技术学院里的一名可爱的大学生,她生性善良勇敢,乐于助人。
+description: Zack博客
 
 relative_permalinks: false
-
-
 
 exclude:
   - README.md
